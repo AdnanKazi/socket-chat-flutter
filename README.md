@@ -1,6 +1,6 @@
-# socket_io_3
+# socket_app
 
-A new Flutter application.
+A new Flutter project.
 
 ## Getting Started
 
